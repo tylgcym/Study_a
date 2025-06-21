@@ -1,3 +1,5 @@
+package Stack;
+
 public class Array1<E> {
     //涉及一个泛型类
     private E[] data;
