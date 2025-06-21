@@ -1,2 +1,2 @@
 # LET IS GO！
-# This is a respority of learning for CYM
+# This is a respority for CYM！
