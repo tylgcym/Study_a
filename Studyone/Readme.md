@@ -6,3 +6,5 @@ I’m using this repository to document my job-seeking and learning journey.
 Thank you! 
 
 I will keep updating this repository and record my learning insights in a date-specific format.
+
+# DS learning
