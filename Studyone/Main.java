@@ -4,7 +4,7 @@ public class Main {
 
         //测试Array中实现的各个接口
 
-        Array arr = new Array(20);
+        Array1<Integer> arr = new Array1<Integer>();
         for(int i = 0; i < 10; i++){
             arr.addlLast(i);
         }
@@ -20,6 +20,13 @@ public class Main {
         System.out.println(arr);
         arr.removeElement(3);
         System.out.println(arr);
+        arr.delete(2);
+        System.out.println(arr);
+        arr.removeElement(100);
+        System.out.println(arr);
+        arr.delete(3);
+        System.out.println(arr);
+
     }
 
 }
